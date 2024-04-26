@@ -13,3 +13,5 @@ Reason: Wanted to learn how to create a player
 ChatGPT Prompt: what are the steps of making a multiplayer game like fireboy and watergirl
 ChatGPT Prompt: how to scale an image in pygame
 ChatGPT Prompt: clearly explain what is class, def __init__ method and self. in python
+ChatGPT Prompt: if there is collision happens between the player sprite and the lava group sprite, 
+                how can i know which member of the lava group is colliding with the player sprite
