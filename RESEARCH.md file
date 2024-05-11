@@ -15,3 +15,7 @@ ChatGPT Prompt: how to scale an image in pygame
 ChatGPT Prompt: clearly explain what is class, def __init__ method and self. in python
 ChatGPT Prompt: if there is collision happens between the player sprite and the lava group sprite, 
                 how can i know which member of the lava group is colliding with the player sprite
+ChatGPT Prompt: how do i make the game still run properly when only one player collide with the gate
+                when one player collide with the gate i want nothing to happen, and when the player moves away 
+                how can i clean the data in the list and set game_over back to 0
+
